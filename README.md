@@ -1,3 +1,3 @@
 # hacks
 
-A repository containing random hacks and tools
+A repository containing random hacks and tools.

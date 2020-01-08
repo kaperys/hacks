@@ -43,7 +43,7 @@ func main() {
 					panic(err)
 				}
 
-				print(string(buf[:len]))
+				println(string(buf[:len]))
 			}
 		}(c)
 	}
